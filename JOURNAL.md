@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 10/29/2025 - Just Making PCB and looking for components /Programming  
+## 10/29/2025 - Just Making PCB and looking for components  
 
 The project itself is very easy and doesn't require a case. The PCB didn't take long, but the programming took longer. I enjoyed working on this project.
 
