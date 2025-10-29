@@ -1,8 +1,8 @@
-Designator,Footprint,Quantity,Value,LCSC Part #
-A1,Arduino_Nano,1,Arduino_Nano_Every,
-D1,LED_D8.0mm,1,LED,
-DS1,WC1602A,1,WC1602A,
-"R1, R3",R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal,2,220,
-R2,R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal,1,2k,
-RV1,Potentiometer_Bourns_3296P_Horizontal,1,R_Potentiometer,
-"SW1, SW2",SW_PUSH-12mm,2,SW_Push,
+Quantity,Value
+1,Arduino_Nano_Every
+1,LED
+1,WC1602A
+2,220
+1,2k
+1,R_Potentiometer
+2,SW_Push
