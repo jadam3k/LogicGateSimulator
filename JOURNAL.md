@@ -22,3 +22,12 @@ I love programming, so it didn't take me long. The problems were minor and I eas
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjU0MSwicHVyIjoiYmxvYl9pZCJ9fQ==--819daf84be76ceda97aaca6efc5209db2d786fa6/image.png)
   
 
+## 10/29/2025 9:58 PM - Bug fixes  
+
+I tried simulating my project in a simulation program and found a few bugs that I quickly fixed. This wasn't too difficult either. Next time, I'll have to be more careful with pinout and code details.
+
+Below is a screenshot from the beginning of work, when I didn't know how many stupid mistakes I made lol
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjU0NywicHVyIjoiYmxvYl9pZCJ9fQ==--8613710bac61593c8a3099cc8165cc904e90afbb/image.png)
+  
+
