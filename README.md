@@ -1,5 +1,8 @@
 # LogicGateSimulator
 Simple Logic Gate Simulator using arduino Nano
+I'm studying industrial automation, so I figured something like this would be useful, especially since Boolean algebra is important in automation. The project didn't take long and is interesting.
+
+
 
 
 ### Schema
