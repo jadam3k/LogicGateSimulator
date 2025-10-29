@@ -9,6 +9,8 @@
 ## 10/29/2025 - Just Making PCB and looking for components  
 
 The project itself is very easy and doesn't require a case. The PCB didn't take long, but the programming took longer. I enjoyed working on this project.
+A big problem for me was assigning footprints, which I had never done without internet knowledge, I wanted to understand it myself
+
 
 ![Zrzut ekranu 2025-10-29 212654](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjUzNywicHVyIjoiYmxvYl9pZCJ9fQ==--b8b127deb16968d6408705967c1e91824ce64680/Zrzut%20ekranu%202025-10-29%20212654.png)
   
